@@ -85,6 +85,7 @@ body::before {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
+  border-radius: 12px;
 }
 
 /* --- FEATURE LIST --- */
